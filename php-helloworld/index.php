@@ -1,3 +1,3 @@
 <?php
-print "Hello, Stuttgart !\n";
+print "Hello, Berlin !\n";
 ?>
